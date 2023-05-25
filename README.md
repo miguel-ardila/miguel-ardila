@@ -23,6 +23,6 @@
 
 <p>&nbsp;<img align="center" width="346" height="140" src="https://github-readme-stats.vercel.app/api?username=miguel-ardila&show_icons=true&theme=dracula&locale=en" alt="miguel-ardila" /></p>
 
-<p><img align="center" width="340" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-ardila&theme=dark" alt="miguel-ardila" /></p>
+<p><img align="center" width="340" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-ardila&theme=dracula" alt="miguel-ardila" /></p>
 
 
