@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-ardila&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miguel-ardila" /></p>
 
-<p>&nbsp;<img align="center" width="340" height="140" src="https://github-readme-stats.vercel.app/api?username=miguel-ardila&show_icons=true&theme=dracula&locale=en" alt="miguel-ardila" /></p>
+<p>&nbsp;<img align="center" width="344" height="140" src="https://github-readme-stats.vercel.app/api?username=miguel-ardila&show_icons=true&theme=dracula&locale=en" alt="miguel-ardila" /></p>
 
 <p><img align="center" width="340" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-ardila&theme=dark" alt="miguel-ardila" /></p>
 
