@@ -1,5 +1,5 @@
 
-<div style="text-align:center;">
+<div style="display: flex; justify-content: center;">
   <img alt="GIF" src="./assets/code.gif" width="680px" height="80px"/>
 </div>
 
