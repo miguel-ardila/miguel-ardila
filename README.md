@@ -1,7 +1,7 @@
+<p align="center">
+  <img alt="GIF" src="./assets/code.gif" width="" height="80px"/>
+</p>
 
-<div style="display: flex; justify-content: center;">
-  <img alt="GIF" src="./assets/code.gif" width="680px" height="80px"/>
-</div>
 
 <h3 align="center">A passionate Junior Frontend Developer from Colombia</h3>
 
