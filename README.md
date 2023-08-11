@@ -5,7 +5,11 @@
 
 <h3 align="center">A passionate Junior Frontend Developer from Colombia</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguel-ardila&theme=dracula&row=1" alt="miguel-ardila"/></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=miguel-ardila&theme=dracula&row=1" alt="miguel-ardila" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Javascript,react and python**
 
