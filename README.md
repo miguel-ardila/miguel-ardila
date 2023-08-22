@@ -40,5 +40,3 @@
     <img width="340" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-ardila&theme=dracula" alt="miguel-ardila" />
   </div>
 </div>
-
-
