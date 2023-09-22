@@ -16,6 +16,11 @@
 - 💬 Ask me about **E-commerce Online Store Design Shopify, HTML,CSS**
 
 - ⚡ Fun fact **I think I'm funny**
+- Microsoft User Research **Windows Developers**
+
+<img src="assets/Windows.png" alt="Descripción de la imagen" style="width: 160px; border: 2px solid #555;">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,16 +32,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-ardila&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miguel-ardila" />
+<div style="">
+  <div style="">
+    <img width = "" height = "170"src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-ardila&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miguel-ardila" />
   </div>
-  
-  <div style="margin: 0 10px;">
-    <img width="346" height="140" src="https://github-readme-stats.vercel.app/api?username=miguel-ardila&show_icons=true&theme=dracula&locale=en" alt="miguel-ardila" />
+  <div style="">
+    <img width="310" height="150" src="https://github-readme-stats.vercel.app/api?username=miguel-ardila&show_icons=true&theme=dracula&locale=en" alt="miguel-ardila" />
   </div>
-  
-  <div style="margin-left: 10px;">
-    <img width="340" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-ardila&theme=dracula" alt="miguel-ardila" />
+  <div style="">
+    <img width="310" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-ardila&theme=dracula" alt="miguel-ardila" />
   </div>
 </div>
