@@ -4,7 +4,9 @@
 
 
 <h3 align="center">A passionate Junior Frontend Developer from Colombia</h3>
-
+<p align="center">
+  <h5 align="center">🏆GitHub Profile Trophy</h5>
+</p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=miguel-ardila&theme=dracula&row=1&column=6" alt="miguel-ardila" />
