@@ -36,7 +36,9 @@
   <p align="center" >
     <img width = "" height = "170" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-ardila&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miguel-ardila" />
   </p>
-<p>
-    <img width="310" height="150" src="https://github-readme-stats.vercel.app/api?username=miguel-ardila&show_icons=true&theme=dracula&locale=en" alt="miguel-ardila" />
-    <img width="330" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-ardila&theme=dracula" alt="miguel-ardila" />
+<p  >
+    <img width="310" height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=miguel-ardila&show_icons=true&theme=dracula&locale=en" alt="miguel-ardila" />
+</p>
+<p align="right">
+<img width="330" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-ardila&theme=dracula" alt="miguel-ardila" />
 </p>
