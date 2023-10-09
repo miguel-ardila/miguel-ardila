@@ -4,6 +4,7 @@
 
 
 <h3 align="center">A passionate Junior Frontend Developer from Colombia</h3>
+
 <p align="center">
   <h5 align="center">🏆GitHub Profile Trophy</h5>
 </p>
@@ -21,9 +22,7 @@
 - 🚀 Microsoft User Research **Windows Developers**
 
 <img src="assets/Windows.png" alt="Windows Developers" style="width: 160px; border: 3px solid #555;">
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguel-ardila&label=Profile%20views&color=0e75b6&style=flat" alt="miguel-ardila" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miguel-ardila-bbb725210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iguel-ardila-bbb725210" height="20" width="30" /></a>
