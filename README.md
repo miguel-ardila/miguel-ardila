@@ -19,9 +19,9 @@
 - 💬 Ask me about **E-commerce Online Store Design Shopify, HTML,CSS**
 
 - ⚡ Fun fact **I think I'm funny**
-- 🚀 Microsoft User Research **Windows Developers**
+<!-- - 🚀 Microsoft User Research **Windows Developers** -->
 
-<img src="assets/Windows.png" alt="Windows Developers" style="width: 160px; border: 3px solid #555;">
+<!-- <img src="assets/Windows.png" alt="Windows Developers" style="width: 160px; border: 3px solid #555;"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguel-ardila&label=Profile%20views&color=0e75b6&style=flat" alt="miguel-ardila" /> </p>
 
